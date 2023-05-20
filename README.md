@@ -2,7 +2,7 @@
 
 ## Description
 
-Just Another Text Editor (JATE) is an online text editor application. Using Service Workers and IndexedDB, your work can be saved and resume at later visits to the application.
+[Just Another Text Editor (JATE)](https://safe-everglades-03824.herokuapp.com/) is an online text editor application. Using Service Workers and IndexedDB, your work can be saved and resume at later visits to the application.
 
 ## Installation
 
