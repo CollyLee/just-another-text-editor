@@ -13,4 +13,5 @@ No installation necessary.
 To start the application, use the command npm run start:dev
 
 Any information typed into the application will automatically be saved and retrieved at later visits to the application.
+![screenshot of project](./Assets/Screenshot%202023-05-20%20131847.png)
 
